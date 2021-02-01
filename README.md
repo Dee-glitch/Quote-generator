@@ -1,4 +1,5 @@
-# Quote-generator- Get a new quote every time you click on the button. You can even tweet the quote!
+# Quote-generator
+Get a new quote every time you click on the button. You can even tweet the quote!
 
 Built with HTML, CSS and Javascript. referenced project ideas and codes from the following course.
 
